@@ -1,0 +1,13 @@
+{
+    "name": "Large BreadBoard",
+    "symbol": "https://res.cloudinary.com/circuito/image/upload/a6ufhfpdbukapcwwms0u",
+    "displayName": "Large BreadBoard",
+"category": [
+  "support"
+],
+"desc": "Full size solderless breadboard. It has 2 split power buses, 10 columns, and 63 rows. All pins are spaced by a standard 0.1\". It also has a self-adhesive on the back.",
+
+"placing": {
+    "onBreadboard": true
+  }
+}
